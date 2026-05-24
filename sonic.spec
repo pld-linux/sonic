@@ -2,7 +2,7 @@ Summary:	Sonic Library for speeding up and slowing speach
 Summary(pl.UTF-8):	Biblioteka Sonic do przyspieszania i spowalniania mowy
 Name:		sonic
 Version:	0.2.0
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Libraries
 #Source0Download: https://github.com/waywardgeek/sonic/releases
